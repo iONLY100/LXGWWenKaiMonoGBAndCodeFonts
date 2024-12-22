@@ -10,12 +10,12 @@
 
 仅使用两种自重 `Regular` `Bold`
 
-[CascadiaCodeNF+BLXGWWenKaiGB-Bold.ttf](https://github.com/iONLY100/LXGWWenKaiMonoGBAndCodeFonts/blob/main/CascadiaCodeNF%2BLXGWWenKaiGB-Bold.ttf) = `CascadiaCodeNF-Bold.ttf` + `LXGWWenKaiMonoGB-Medium.ttf`
+[CascadiaCodeNF+BLXGWWenKaiGB-Bold.ttf](https://github.com/iONLY100/LXGWWenKaiMonoGBAndCodeFonts/blob/main/CascadiaCodeNF/CascadiaCodeNF%2BLXGWWenKaiGB-Bold.ttf) = `CascadiaCodeNF-Bold.ttf` + `LXGWWenKaiMonoGB-Medium.ttf`
 
-[CascadiaCodeNF+BLXGWWenKaiGB-Regular.ttf](https://github.com/iONLY100/LXGWWenKaiMonoGBAndCodeFonts/blob/main/CascadiaCodeNF%2BLXGWWenKaiGB-Regular.ttf) = `CascadiaCodeNF-Regular.ttf` + `LXGWWenKaiMonoGB-Regular.ttf`
+[CascadiaCodeNF+BLXGWWenKaiGB-Regular.ttf](https://github.com/iONLY100/LXGWWenKaiMonoGBAndCodeFonts/blob/main/CascadiaCodeNF/CascadiaCodeNF%2BLXGWWenKaiGB-Regular.ttf) = `CascadiaCodeNF-Regular.ttf` + `LXGWWenKaiMonoGB-Regular.ttf`
 
 预览
 
-![CascadiaCodeNF+BLXGWWenKaiGB.png](https://github.com/iONLY100/LXGWWenKaiMonoGBAndCodeFonts/blob/main/Pictures/CascadiaCodeNF%2BLXGWWenKaiGB.png)
+![CascadiaCodeNF+BLXGWWenKaiGB.png](https://github.com/iONLY100/LXGWWenKaiMonoGBAndCodeFonts/blob/main/CascadiaCodeNF/CascadiaCodeNF%2BLXGWWenKaiGB.png)
 
 ***
